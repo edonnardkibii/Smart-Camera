@@ -1,0 +1,5 @@
+opencv-python
+paho-mqtt
+pybase64
+configparser
+cryptography
