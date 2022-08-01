@@ -38,7 +38,7 @@ pip install -U scikit-learn
 ```
 To install Tensorflow:
 ```
-pip install tensor flow
+pip install tensorflow
 ```
 **Important:** Tensorflow may not install properly on the first try. If there are problems, a solution will be proposed in the final project report. (Page 4-5)
 
